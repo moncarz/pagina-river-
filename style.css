@@ -13,7 +13,8 @@ body {
 ul {
     display: flex;
     list-style-type: none;
-    justify-content: right;
+    justify-content:space-between
+    
 
 }
 
@@ -76,4 +77,11 @@ a {
 
 .card button:hover {
     background-color: #0069d9;
+}
+
+.logo-de-river {
+    width: 5rem;
+    margin: 0%;
+    padding: 0%;
+    justify-content: left;
 }
