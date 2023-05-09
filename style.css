@@ -33,11 +33,11 @@ a {
 
 
 .card {
-    border: 5px solid #fffefe;
+    border: 10px solid #fffefe;
     border-radius: 5px;
     padding: 10px;
-    width: 300px;
-    border-color: #ffeded;
+    width: 250px;
+    border-color: #ffffff;
 }
 
 .card img {
@@ -52,7 +52,7 @@ a {
 }
 
 .card h3 {
-    border: 2px solid rgb(255, 255, 255);
+    border: 2px solid rgb(255, 0, 0);
 
     /* Cambiar el color del borde del h3 */
 
@@ -65,7 +65,7 @@ a {
 }
 
 .card button {
-    background-color: #fcfdff;
+    background-color: #7facff;
     color: #ff1616;
     border: none;
     border-radius: 5px;
