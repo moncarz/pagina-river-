@@ -13,9 +13,7 @@ body {
 ul {
     display: flex;
     list-style-type: none;
-    justify-content:space-between
-    
-
+    justify-content: space-between
 }
 
 footer {
@@ -85,5 +83,13 @@ a {
     padding: 0%;
     justify-content: left;
 }
-background: rgb(222,14,14);
-background: linear-gradient(90deg, rgba(222,14,14,1) 46%, rgba(255,255,255,1) 47%);
+
+.my-element {
+    display: inline-block;
+    margin: 0 0.5rem;
+
+    animation: bounce;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 10s;
+    /* don't forget to set a duration! */
+}
