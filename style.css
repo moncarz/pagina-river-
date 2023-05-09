@@ -85,3 +85,5 @@ a {
     padding: 0%;
     justify-content: left;
 }
+background: rgb(222,14,14);
+background: linear-gradient(90deg, rgba(222,14,14,1) 46%, rgba(255,255,255,1) 47%);
